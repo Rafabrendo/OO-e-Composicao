@@ -1,1 +1,1 @@
-# Projeto de banco de dados utilizando Programação Orientada a Objetos(POO)
+# Projeto de Banco Comercial, utilizando Programação Orientada a Objetos(POO)
